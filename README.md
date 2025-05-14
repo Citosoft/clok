@@ -1,8 +1,8 @@
-# TimeTracker
+# Clok
 
 A modern, cross-platform desktop application for automatic time tracking and productivity analysis.
 
-> **Note: TimeTracker is currently in beta testing. While we're working hard to ensure stability, you may encounter occasional bugs or issues. Your feedback is valuable in helping us improve the application.**
+> **Note: Clok is currently in beta testing. While we're working hard to ensure stability, you may encounter occasional bugs or issues. Your feedback is valuable in helping us improve the application.**
 
 ![TimeTracker Screenshot](screenshot.png)
 
