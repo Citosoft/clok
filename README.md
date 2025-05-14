@@ -4,7 +4,7 @@ A modern, cross-platform desktop application for automatic time tracking and pro
 
 > **Note: Clok is currently in beta testing. While we're working hard to ensure stability, you may encounter occasional bugs or issues. Your feedback is valuable in helping us improve the application.**
 
-![TimeTracker Screenshot](screenshot.png)
+![Clok Screenshot](screenshot.png)
 
 ## Features
 
@@ -58,7 +58,7 @@ A modern, cross-platform desktop application for automatic time tracking and pro
 
 ## Usage
 
-1. Launch TimeTracker
+1. Launch Clok
 2. Click "Start Tracking" to begin automatic time tracking
 3. Use the sidebar to navigate between different views:
    - Today's activities
@@ -69,7 +69,7 @@ A modern, cross-platform desktop application for automatic time tracking and pro
 
 ## Auto-Tracking
 
-TimeTracker can automatically start and stop tracking based on your schedule:
+Clok can automatically start and stop tracking based on your schedule:
 
 1. Enable Auto-Tracking in the settings
 2. Set your preferred tracking hours
@@ -78,7 +78,7 @@ TimeTracker can automatically start and stop tracking based on your schedule:
 
 ## Privacy
 
-TimeTracker runs locally on your machine. Your data is stored locally and is only synced with external services when you explicitly choose to do so.
+Clok runs locally on your machine. Your data is stored locally and is only synced with external services when you explicitly choose to do so.
 
 ## Support
 
