@@ -4,7 +4,7 @@ A modern, cross-platform desktop application for automatic time tracking and pro
 
 > **Note: Clok is currently in beta testing. While we're working hard to ensure stability, you may encounter occasional bugs or issues. Your feedback is valuable in helping us improve the application.**
 
-![Clok Screenshot](screenshot.png)
+![Clok Screenshot](Screenshot.png)
 
 ## Features
 
