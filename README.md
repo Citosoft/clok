@@ -1,3 +1,7 @@
+[![clok](https://snapcraft.io/clok/badge.svg)](https://snapcraft.io/clok)
+
+[![Get it from the Snap Store](https://snapcraft.io/en/dark/install.svg)](https://snapcraft.io/clok)
+
 # Clok
 
 A modern, cross-platform desktop application for automatic time tracking and productivity analysis.
